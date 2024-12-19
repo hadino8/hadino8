@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hadi Nasehi (@hadino8).thirteen years old boy.
+- 👋 Hi, I’m Hadi Nasehi (@hadino8).Thirteen years old boy.
 - 👀 I’m interested in coding , mathematic , exercising , traveling , learning and lot more.
 - 🌱 I’m currently learning JavaScript and I hope to learn it as soon as possible.
 - 💞️ I’m looking to collaborate on creating new websites and fun pages.
